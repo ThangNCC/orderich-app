@@ -1,3 +1,5 @@
+/* eslint-disable import/no-unresolved */
+/* eslint-disable import/extensions */
 /**
  * Learn more about deep linking with React Navigation
  * https://reactnavigation.org/docs/deep-linking

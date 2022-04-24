@@ -24,7 +24,6 @@
   },
   "husky": {
     "hooks": {
-      "hooks": {
         "applypatch-msg": "echo \"[Husky] applypatch-msg\"",
         "pre-applypatch": "echo \"[Husky] pre-applypatch\"",
         "post-applypatch": "echo \"[Husky] post-applypatch\"",
@@ -53,7 +52,6 @@
         "p4-pre-submit": "echo \"[Husky] p4-pre-submit\"",
         "post-index-change": "echo \"[Husky] post-index-change\""
       }
-    }
   },
   "jest": {
     "preset": "jest-expo"
